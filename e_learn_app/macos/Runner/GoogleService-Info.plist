@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>212120369452-tegk1buo1haial257afaj699opbc92n6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.212120369452-tegk1buo1haial257afaj699opbc92n6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3-JXuNfFHX01OcqUBpvomfRiO1Nph2j0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>212120369452</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eLearnApp</string>
+	<key>PROJECT_ID</key>
+	<string>e-learn-86f7e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-learn-86f7e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:212120369452:ios:cfdd3d553259518bb25489</string>
+	<key>DATABASE_URL</key>
+	<string>https://e-learn-86f7e-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212120369452",
+    "firebase_url": "https://e-learn-86f7e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "e-learn-86f7e",
+    "storage_bucket": "e-learn-86f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212120369452:android:ce51bc9ecc51b197b25489",
+        "android_client_info": {
+          "package_name": "com.example.e_learn_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212120369452-i51qo6h5q48j9mtpdiq83ggrbg5kuvfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKIn7KtaHk4jnyl7dYkvI2Utw0G_gDqEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212120369452-i51qo6h5q48j9mtpdiq83ggrbg5kuvfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

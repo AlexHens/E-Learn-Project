@@ -86,7 +86,7 @@ class _LoginForm extends StatelessWidget {
               keyboardType: TextInputType.emailAddress,
               decoration: InputDecorations.authInputDecoration(
                 hintText: '12345678X',
-                labelText: 'Contraseña - DNI',
+                labelText: 'Contraseña',
                 prefixIcon: Icons.lock
               ),
               onChanged: (value) => loginForm.password = value,
